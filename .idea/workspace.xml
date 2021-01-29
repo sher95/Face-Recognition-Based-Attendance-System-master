@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2a060f4-edd6-48fe-932f-eaae70aa4c70" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1lmN2vrIcHTEwjIMXCGy4cnpuiU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../first" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Face-Recognition-Based-Attendance-System-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2a060f4-edd6-48fe-932f-eaae70aa4c70" name="Default Changelist" comment="" />
+      <created>1608198103521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608198103521</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="173" key="FileChooserDialogImpl" timestamp="1610458069605">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="447" y="173" key="FileChooserDialogImpl/0.30.1366.738/1366.0.1024.738@0.30.1366.738" timestamp="1610458069605" />
+    <state x="1813" y="173" key="FileChooserDialogImpl/0.30.1366.738/1366.30.1366.738@1366.30.1366.738" timestamp="1608364459270" />
+    <state x="447" y="173" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1610430384965" />
+    <state width="1345" height="184" key="GridCell.Tab.0.bottom" timestamp="1610446048516">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1000" height="182" key="GridCell.Tab.0.bottom/0.30.1024.738@0.30.1024.738" timestamp="1608292374472" />
+    <state width="1000" height="182" key="GridCell.Tab.0.bottom/0.30.1366.738/1366.0.1024.738@0.30.1366.738" timestamp="1608292816115" />
+    <state width="1000" height="182" key="GridCell.Tab.0.bottom/0.30.1366.738/1366.30.1366.738@1366.30.1366.738" timestamp="1608363738115" />
+    <state width="1345" height="184" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1610446048516" />
+    <state width="1345" height="184" key="GridCell.Tab.0.center" timestamp="1610446048515">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1000" height="182" key="GridCell.Tab.0.center/0.30.1024.738@0.30.1024.738" timestamp="1608292374471" />
+    <state width="1000" height="182" key="GridCell.Tab.0.center/0.30.1366.738/1366.0.1024.738@0.30.1366.738" timestamp="1608292816114" />
+    <state width="1000" height="182" key="GridCell.Tab.0.center/0.30.1366.738/1366.30.1366.738@1366.30.1366.738" timestamp="1608363738115" />
+    <state width="1345" height="184" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1610446048515" />
+    <state width="1345" height="184" key="GridCell.Tab.0.left" timestamp="1610446048515">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1000" height="182" key="GridCell.Tab.0.left/0.30.1024.738@0.30.1024.738" timestamp="1608292374471" />
+    <state width="1000" height="182" key="GridCell.Tab.0.left/0.30.1366.738/1366.0.1024.738@0.30.1366.738" timestamp="1608292816114" />
+    <state width="1000" height="182" key="GridCell.Tab.0.left/0.30.1366.738/1366.30.1366.738@1366.30.1366.738" timestamp="1608363738115" />
+    <state width="1345" height="184" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1610446048515" />
+    <state width="1345" height="184" key="GridCell.Tab.0.right" timestamp="1610446048516">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1000" height="182" key="GridCell.Tab.0.right/0.30.1024.738@0.30.1024.738" timestamp="1608292374471" />
+    <state width="1000" height="182" key="GridCell.Tab.0.right/0.30.1366.738/1366.0.1024.738@0.30.1366.738" timestamp="1608292816115" />
+    <state width="1000" height="182" key="GridCell.Tab.0.right/0.30.1366.738/1366.30.1366.738@1366.30.1366.738" timestamp="1608363738115" />
+    <state width="1345" height="184" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1610446048516" />
+    <state x="184" y="44" key="SettingsEditor" timestamp="1609308223140">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="184" y="44" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1609308223140" />
+  </component>
+</project>
